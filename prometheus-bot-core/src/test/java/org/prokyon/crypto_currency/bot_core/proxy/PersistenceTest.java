@@ -1,0 +1,6 @@
+package org.prokyon.crypto_currency.bot_core.proxy;
+
+public class PersistenceTest  {
+
+
+}
